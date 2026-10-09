@@ -1,0 +1,8 @@
+{
+  "name": "aramon",
+  "private": true,
+  "description": "Ciferník Aramon pro Amazfit Balance",
+  "scripts": {
+    "assets": "python3 tools/generate_assets.py"
+  }
+}
